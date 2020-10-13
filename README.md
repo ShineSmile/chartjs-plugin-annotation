@@ -142,10 +142,7 @@ Vertical or horizontal lines are supported.
 		enabled: false,
 
 		// Text to display in label - default is null. Provide an array to display values on a new line
-		content: "Test label",
-
-		// Rotation of label, in degrees, default is 0
-		rotation: 90
+		content: "Test label"
 	},
 
 	// Mouse event handlers - be sure to enable the corresponding events in the
